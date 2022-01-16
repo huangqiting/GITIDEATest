@@ -1,2 +1,2 @@
 # GITIDEATest
-在idea什么测试git的使用
+在idea上面测试git的使用
